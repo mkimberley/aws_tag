@@ -1,0 +1,16 @@
+{
+    "version": 1.0,
+    "tags": {
+        "environment": [
+            "production",
+            "preProduction",
+            "siTest",
+            "qa",
+            "dev"
+        ],
+        "alwaysOn": [
+            "yes",
+            "no"
+        ]
+    }
+}
